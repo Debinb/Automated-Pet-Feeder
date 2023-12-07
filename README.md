@@ -16,3 +16,7 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
 - 12V Motors connected to MOSFETS
 - Capacitative Water Sensing circuit
 
+## Interface
+
+User can use a serial interface (Putty) to input feeding schedules and change other settings
+<img src = "Documentation/Interface.png" width="250" >
