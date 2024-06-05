@@ -31,7 +31,7 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
 </p>
 
 <p align="center">
-<img src=Documentation/Speaker Circuit.png">
+<img src="Documentation/Speaker Circuit.png">
 <p align="center"> Circuit used for speaker. </p>
 </p>
  
