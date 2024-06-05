@@ -25,10 +25,14 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
 <p align="center"> Circuit used for the Auger and Water Dispenser. </p>
 </p>
 
+
+
 <p align="center">
 <img src="Documentation/Capacitative Water Sensing Circuit.png">
 <p align="center"> Circuit used for capacitative bowl. </p>
 </p>
+
+
 
 <p align="center">
 <img src="Documentation/Speaker Circuit.png">
