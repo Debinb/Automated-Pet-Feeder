@@ -69,5 +69,5 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
 
 User can use a serial interface (Putty) to input feeding schedules and change other settings
 <p align = center>
-<img src = "Documentation/Interface.png" width="250" >
+<img src = "Documentation/Interface.png" width="500" >
 </p>
