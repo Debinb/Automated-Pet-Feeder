@@ -16,7 +16,24 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
   | Speaker                 |
   | 12V Motors connected to MOSFETS (x2)|
   | Diodes                       |
-  | Capacitative Water Sensing circuit        |
+  | Capacitative Water Sensing circuit   |
+
+### Circuit Diagrams
+
+<p align="center">
+<img src="Documentation/Auger and Motor Circuit.png">
+<p align="center"> Circuit used for the Auger and Water Dispenser. </p>
+</p>
+
+<p align="center">
+<img src="Documentation/Capacitative Water Sensing Circuit.png">
+<p align="center"> Circuit used for capacitative bowl. </p>
+</p>
+
+<p align="center">
+<img src=Documentation/Speaker Circuit.png">
+<p align="center"> Circuit used for speaker. </p>
+</p>
  
 ## Peripherals Used
   |                         |
@@ -29,7 +46,8 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
   |   PWM  |
   | Analog Comparator |
 
-
+## Software FEatures
+- 
 
 ## Interface
 
