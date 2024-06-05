@@ -9,12 +9,19 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
 - **Alert Mode Option:** Alert the owner if the water source is low. 
 
 ## Hardware Components
+  
+  | ------------------------|
+  | TM123GH6PM Tiva Board   |
+  |  Passive IR Sensor      |
+  | Speaker                 |
+  | 12V Motors connected to MOSFETS (x2)|
+  | Diodes                       |
+  | Capacitative Water Sensing circuit                      |
+ 
 
-- TM123GH6PM Tiva Board
-- Passive IR Sensor
-- Speaker
-- 12V Motors connected to MOSFETS
-- Capacitative Water Sensing circuit
+ 
+ 
+ 
 
 ## Interface
 
