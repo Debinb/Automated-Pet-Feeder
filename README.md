@@ -3,8 +3,7 @@
 This project implements an automated pet feeder using the TM123GH6PM Tiva board. The system dispenses pet food at scheduled times and water based on owner's settings.
 
 <p align="center">
-<img src="Documentation/Pet Feeder Product.jpg">
-<p align="center"> <b> Circuit used for capacitative bowl. </b> </p>
+<img src="Documentation/Pet Feeder Product.jpg" width="250">
 </p>
 
 ## Features
