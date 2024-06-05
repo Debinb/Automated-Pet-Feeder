@@ -50,8 +50,16 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
   |   PWM  |
   | Analog Comparator |
 
-## Software FEatures
-- 
+## Software Features
+- `time HH:MM`: This command lets the user set the time for the pet feeder.
+- `time`: Displays the current time.
+- `feed x y z a b`: Adds a feeding schedule. Command contains 5 parameters - *index*, *Motor duration*, *Motor Speed*, *Hours* and *Minutes*.
+- `feed x delete`: Lets the user delete a feeding schedule by specifying the index of the schedule.
+- `schedule`: Displays the entire stored feeding schedule.
+- `water x`: Sets the water level regulation by specifying the amount of volume. If water level goes below the level, water is dispensed if FILL mode is selected.
+- `fill y`: Lets the user to choose between AUTO water filling or MOTION detected water filling.
+- `alert ON|OFF`: If alert mode is ON, the user is alarmed when there is low water.
+- `setting`: Displays the configuration settings - Water Level, Fill Mode and Alert Mode.
 
 ## Interface
 
