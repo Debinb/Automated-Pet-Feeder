@@ -18,12 +18,22 @@ This project implements an automated pet feeder using the TM123GH6PM Tiva board.
   | Diodes                       |
   | Capacitative Water Sensing circuit        |
  
+## Peripherals Used
+  |                         |
+  | ------------------------|
+  | GPIO   |
+  |  UART  |
+  | HIB    |
+  | EEPROM |
+  |  Timers |
+  |   PWM  |
+  | Analog Comparator |
 
- 
- 
- 
+
 
 ## Interface
 
 User can use a serial interface (Putty) to input feeding schedules and change other settings
+<p align = center>
 <img src = "Documentation/Interface.png" width="250" >
+</p>
