@@ -1,6 +1,6 @@
 # Automated-Pet-Feeder
 
-This project implements an automated pet feeder using the TM123GH6PM Tiva board. The system dispenses pet food at scheduled times and water based on owner's settings.
+An automated pet feeder developed using TI's TM123GH6PM Tiva board. The system dispenses pet food at scheduled times and water based on owner's settings. Additionally, the feeder can detect motion and dispense food/water, if set to "Motion" detection mode.
 
 <p align="center">
 <img src="Documentation/Pet Feeder Product.jpg" width="500">
